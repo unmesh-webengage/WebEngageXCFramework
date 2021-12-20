@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'WebEngageXCFramework_Example' do
+  pod 'WebEngageXCFramework', :path => '../'
+
+  target 'WebEngageXCFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

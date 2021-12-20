@@ -1,0 +1,22 @@
+{
+  "name": "WebEngageXCFramework",
+  "version": "0.1.0",
+  "summary": "A short description of WebEngageXCFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/unmesh-webengage/WebEngageXCFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "unmesh-webengage": "unmesh.rathod@webengage.com"
+  },
+  "source": {
+    "git": "https://github.com/unmesh-webengage/WebEngageXCFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WebEngageXCFramework/Classes/**/*"
+}

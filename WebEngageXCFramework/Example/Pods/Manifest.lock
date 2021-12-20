@@ -1,0 +1,16 @@
+PODS:
+  - WebEngageXCFramework (0.1.0)
+
+DEPENDENCIES:
+  - WebEngageXCFramework (from `../`)
+
+EXTERNAL SOURCES:
+  WebEngageXCFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WebEngageXCFramework: d81a1c39b9e25916ca59f1c2f6b61e1b4eca38a8
+
+PODFILE CHECKSUM: 8dce3a3e0deb0a7870743a7d1c7d37e5655d7f3b
+
+COCOAPODS: 1.11.2
